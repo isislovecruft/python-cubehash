@@ -1,0 +1,50 @@
+
+# Emacs temporary files:
+*~
+.\#*
+\#.*\#
+\#*
+
+# Python binary and object files
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+*.egg-info/*
+.installed.cfg
+build
+dist
+MANIFEST
+
+# Installer logs
+installed-files.txt
+pip-log.txt
+pip-install.log
+
+# Unit test / coverage reports
+.coverage
+.tox
+*.prof
+nosetests.xml
+
+# Translations
+*.mo
+
+# Git mergetool backups and save files
+*.orig*
+*.bak*
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# PyCharm
+.idea/*
+
+# etags/ctags
+TAGS
